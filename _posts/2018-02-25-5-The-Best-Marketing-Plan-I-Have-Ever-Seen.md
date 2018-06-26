@@ -69,40 +69,45 @@ d) Young Professional Blogs
 - http:/summation.typepad.com 
 
 Forums 
+
 a) Yahoo / Google Groups 
-i) http://groups.yahoo.com/group/allthatwomenwant/ 
-ii) http://groups.yahoo.com/group/momsworkingathome/ 
-iii) http://finance.dir.groups.yahoo.com/group/wininvestments/
- iv) http://groups.yahoo.com/group/freedealsonline/ 
+- http://groups.yahoo.com/group/allthatwomenwant/ 
+- http://groups.yahoo.com/group/momsworkingathome/ 
+- http://finance.dir.groups.yahoo.com/group/wininvestments/
+- http://groups.yahoo.com/group/freedealsonline/ 
 
 b) Craiglist Postings and forum 
+
 c) Savings Forum 
-a. http://www.fatwallet.com 
-b. http://www.savingadvice.com/forums/ 
-c. http://bensbargains.net/forum/index.php 
-d. http://www.woot.com/Forums/ 
-e. http://www.dealcatcher.com/forums/forumid_21/tt.htm 
-f. http://boards.oprah.com 
-g. http://moneycentral.msn.com/community 
-h. http://www.quickenforums.com/forum.jspa?forumID=3038 
+- http://www.fatwallet.com 
+- http://www.savingadvice.com/forums/ 
+- http://bensbargains.net/forum/index.php 
+- http://www.woot.com/Forums/ 
+- http://www.dealcatcher.com/forums/forumid_21/tt.htm 
+- http://boards.oprah.com 
+- http://moneycentral.msn.com/community 
+- http://www.quickenforums.com/forum.jspa?forumID=3038 
 
 Included: 
-1-	Press Release 
-2-	Now - 30 day post public launch strategy 
-3-	Homepage design 
-Timeline Marketing 
+-	Press Release 
+-	Now - 30 day post public launch strategy 
+-	Homepage design 
+
+Timeline Marketing: 
 Alpha plan Jan 5-20 or until all priority I bugs are finished 
 Beta plan Jan 21- Feb 15 or until all priority I bugs are squashed 
 Public Launch Feb 17 everywhere 
 
-Metrics Dashboard (how do we measure value / monitor progress?) 
+Metrics Dashboard (how do we measure value / monitor progress?)+ 
 - implement crazyegg.com on homepage to track where users are clicking. 
+
 User Adoption 
 - install google analytics for general site traffic 
+
 homegrown metrics 
-- # of registered users 
-- # of users who enter bank information 
-- # of banks information entered per person 
+- number of registered users 
+- number of users who enter bank information 
+- number of banks information entered per person 
 - referral tracking dashboard to see where users are coming to the site from. 
 - time spent on site 
 - a/b context testing for homepage conversion. have at least 3 variations of the homepage and track sem conversion from adwords using urchin. 
