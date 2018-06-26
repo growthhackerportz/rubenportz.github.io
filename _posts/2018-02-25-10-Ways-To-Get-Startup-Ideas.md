@@ -4,11 +4,11 @@ date: 2018-02-25 10:10:00
 category: startup
 ---
 
-Ask friends
-Reddit
-Quora
-Forums
-Experts
+- Ask friends
+- Reddit
+- Quora
+- Forums
+- Experts
 Entrepreneurs
 Conferences
 Movies
