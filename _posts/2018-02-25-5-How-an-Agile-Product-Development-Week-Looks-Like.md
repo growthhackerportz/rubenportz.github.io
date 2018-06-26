@@ -1,14 +1,14 @@
 ---
 title: How an Agile Product Development Week Looks Like
-date: 2018-02-25 10:10:00
+date: 2018-06-25 10:10:00
 category: MVP
 ---
 
-Monday
-0900-1200 Wireframing & Discussing weekly agenda
-1300-1400 Team Sync
-1400-1530 Design & Prototyping
-1530-1700 Prototyping
+Monday<br>
+0900-1200 Wireframing & Discussing weekly agenda<br>
+1300-1400 Team Sync<br>
+1400-1530 Design & Prototyping<br>
+1530-1700 Prototyping<br>
 
 Tuesday
 0900-1200 Prototyping
