@@ -254,6 +254,7 @@ nav {
 
 .post {
   blockquote {
+    max-width:400px;
     margin: 20px auto 50px auto;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
