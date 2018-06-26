@@ -1,28 +1,31 @@
 ---
 title: The Best Marketing Plan I've Ever Seen
-date: 2018-02-25 10:10:00
+date: 2018-06-14 10:10:00
 category: [startup, Growth]
 ---
 
-https://www.scribd.com/doc/52618592/mint-s-original-marketing-plan 
-Background: This was the original plan I proposed to Aaron Patzer (founder) when I started working on Mint in December 2007. 
-Created by @NoahKagan of AppSumo.com (Daily Deals for Web Geeks) 
-Marketing Game Plan for MyMint 
+Yesterday I came across the original marketing plan that Noah Kagan (founder of AppSumo.com - Daily Deals for Web Geeks) proposed to Aaron Patzer (founder) when they started working on Mint in December 2007. You must scroll through it, if you're currently having any business idea and want to pursuit it.
+
+It's a great example of how anyone should get started. Write down your objectives, measurable goals and a timeframe... and start executing. It's definitely not the most complex plan, but it worked. Start with a targeted audience, reach out to them, and continue from there on. See how they did it below:
+
+Marketing Game Plan for MyMint:
+
 Goal 
-a) 80,000 users within 6 months of public launch 
-b) Write up in a major publication (WSJ, Wired, Etc...) 
+- 80,000 users within 6 months of public launch 
+- Write up in a major publication (WSJ, Wired, Etc...) 
 
 Objectives of Launch 
-a) Test out MyMint service 
-b) Tell a friend whether they login or not 
-c) Provide a way for them to enjoy experience without giving sensitive information 
-d) Find cheerleaders in the beta process to help us promote the service 
+- Test out MyMint service 
+- Tell a friend whether they login or not 
+- Provide a way for them to enjoy experience without giving sensitive information 
+- Find cheerleaders in the beta process to help us promote the service 
 
 Target Users (in priority order) - which customer demographics are most important / most relevant? 
 1) Young Professionals, don't want to waste time and want easy way to see finances. My feeling is that there are a lot of techies looking for deals, ways to save money and scour the web for it. We can easily get them as early adopters and then transition later to the mainstream. 
 2) People in debt, wants to find new ways to save more money and get out of debt. 3) New Families, mothers like knowing they can save for there goals 
 
-Blogs 
+Blogs
+
 a) Personal Finance
  - http://carnivalofpersonalfinance.com/ 
 - http://www.stopbuyingcrap.com/ 
@@ -49,7 +52,7 @@ b) Mom's blogs
 c) Tech-related blogs 
 - http://www.techcrunch.com/ 
 - http://www.venturebeat.com/
- - http://www.pronetadvertising.com/ 
+- http://www.pronetadvertising.com/ 
 - http://www.gigaom.com/ 
 - http://www.micropersuasion.com 
 - http://www.centernetworks.com 
