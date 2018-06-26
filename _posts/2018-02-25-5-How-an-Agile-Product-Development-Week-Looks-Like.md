@@ -3,9 +3,7 @@ title: How an Agile Product Development Week Looks Like
 date: 2018-06-25 10:10:00
 category: MVP
 ---
-<!DOCTYPE html>
-<html>
-<body>
+  
 Monday<br>
 0900-1200 Wireframing & Discussing weekly agenda<br>
 1300-1400 Team Sync<br>
@@ -32,6 +30,4 @@ Friday<br>
 1030-1200 Assumption development<br>
 1300-1600 Assumption development & integration into prototype<br>
 1600-1800 BEERS<br>
-</body>
 
-</html>
